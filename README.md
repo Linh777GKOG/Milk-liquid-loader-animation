@@ -1,0 +1,3 @@
+# Milk-liquid-loader-animation
+
+An animation about motion, maybe add on project someday...
